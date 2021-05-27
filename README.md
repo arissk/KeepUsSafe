@@ -7,4 +7,4 @@ Then a list is generated that shows to the user can check if the place is safe t
 
 ![alt text](https://github.com/arissk/KeepUsSafe/blob/main/Registration.png) ![alt text](https://github.com/arissk/KeepUsSafe/blob/main/ReviewsQuestions.png)
 
-![alt text](https://github.com/arissk/KeepUsSafe/blob/main/SignIn.png)![alt text](https://github.com/arissk/KeepUsSafe/blob/main/StoreRegistration)
+![alt text](https://github.com/arissk/KeepUsSafe/blob/main/SignIn.png) ![alt text](https://github.com/arissk/KeepUsSafe/blob/main/StoreRegistration)
