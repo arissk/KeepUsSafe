@@ -4,6 +4,8 @@ Keep Us Safe is a review app. With this app, the user can add reviews of stores,
 
 Then a list is generated that shows to the user can check if the place is safe to visit or not!
 
+![](kus-demo.mp4)
+
 
 ![alt text](https://github.com/arissk/KeepUsSafe/blob/main/Registration.png) ![alt text](https://github.com/arissk/KeepUsSafe/blob/main/ReviewsQuestions.png)
 
