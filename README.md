@@ -1,0 +1,2 @@
+# KeepUsSafe
+Keep Us Safe is a review app. With this app, the user can add reviews of stores, shops, etc. on whether they keep the COVID-19 security guidelines or not. Then a list is generated that shows to the user can check if the place is safe to visit or not! 
