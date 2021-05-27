@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "121535971393",
+        "project_id": "keep-us-safe",
+        "storage_bucket": "keep-us-safe.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:121535971393:android:87bd0fc8c44817295706c0",
+            "android_client_info": {
+                "package_name": "gr.kus.keepussafe"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "121535971393-to9au3q3sadi4umeon1mocq22boo3v1l.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCR8Khs4u-rLR2HrvScmhUqiXuPl63-Czc"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "121535971393-to9au3q3sadi4umeon1mocq22boo3v1l.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
